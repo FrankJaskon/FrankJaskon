@@ -4,8 +4,8 @@
 
 <p>
   <img src="https://media.tenor.com/kjXMU4dl8lAAAAAC/hello-world.gif" alt="JavaScript"align="left" height="360" width="300" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frankjaskon&show_icons=true&locale=en&layout=compact" alt="frankjaskon" />
-  <img src="https://github-readme-stats.vercel.app/api?username=frankjaskon&show_icons=true&locale=en" alt="frankjaskon" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frankjaskon&show_icons=true&count_private=true&locale=en&layout=compact" alt="frankjaskon" />
+  <img src="https://github-readme-stats.vercel.app/api?username=frankjaskon&show_icons=true&count_private=true&locale=en" alt="frankjaskon" />
 </p>
 <br />
 </p>
